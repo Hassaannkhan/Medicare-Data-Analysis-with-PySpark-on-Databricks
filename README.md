@@ -1,7 +1,3 @@
-Here's the README in GitHub markdown format:
-
----
-
 # Medicare Data Analysis with PySpark on Databricks
 
 *In continuation of my last project, I created this project with one level up, leveraging Databricks to enhance data handling and scalability for Medicare data analysis.*
